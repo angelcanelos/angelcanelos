@@ -6,17 +6,6 @@
 
 ###
 
-### 🤖 My overall statistics
-
-###
-
-![](https://github-readme-stats-one-bice.vercel.app/api?username=oneangel&include_all_commits=true&show_icons=true&title_color=BAA1F0&text_color=9064F0&icon_color=9C7BE4&role=OWNER,ORGANIZATION_MEMBER)
-<img src="https://media.tenor.com/53gmS2gU280AAAAM/yamal-and-raphina.gif" alt="pusheen" height="160px">
-
-###
-
-###
-
 ### ⭐ I have experience using <!--{ collapseSection() }-->
 
 * **Frontend**: TypeScript or JavaScript + HTML + CSS - (React.js, Astro, TailwindCSS ...)
