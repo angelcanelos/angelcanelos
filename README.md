@@ -2,23 +2,25 @@
 
 ###
 
-<p align="left">I'm Angel Fuentes, a second-year undergrad at the Universidad Tecnologica de Durango, studying Software Development Engineering with a deep interest in web development. Front-end enthusiast and passionate about creating engaging and intuitive user experiences. Knowledgeable in modern frameworks. Committed to software quality and always willing to learn new technologies and best practices in the web development field.</p>
+<p align="left">Soy Ángel Fuentes, Ingeniero en Desarrollo de Software egresado de la Universidad Tecnológica de Durango. Me especializo en la creación de aplicaciones móviles y web, con un fuerte enfoque en diseñar experiencias de usuario intuitivas y atractivas mediante el uso de frameworks modernos.
+
+Además de mi pasión por el desarrollo, cuento con habilidades en automatización de procesos y análisis de datos, lo que me permite construir soluciones integrales, eficientes y basadas en resultados. Soy un profesional comprometido con la calidad del software, las buenas prácticas y en constante evolución para dominar las últimas tecnologías del sector.</p>
 
 ###
 
-### ⭐ I have experience using <!--{ collapseSection() }-->
+### ⭐ Tengo experiencia usando.. <!--{ collapseSection() }-->
 
-* **Frontend**: TypeScript or JavaScript + HTML + CSS - (React.js, Astro, TailwindCSS ...)
-* **Backend**: Node.js - (Express, ...)
 * **Mobile**: ReactNative, Flutter, Xamarin
+* **Frontend**: Python, TypeScript o JavaScript + HTML + CSS - (React.js, Astro, TailwindCSS ...)
+* **Backend**: n8n, Node.js - (Express, ...)
 
-### 🕊️ You can reach me at
+### 🕊️ Puedes encontrarme en..
 
 * Email angel09reyes29@gmail.com
 * Discord `angeelone`
 
 
-### 🌎 I can speak
+### 🌎 Puedo hablar...
 
 * 🇪🇸 Spanish
 * 🇺🇸 English (Learning)
